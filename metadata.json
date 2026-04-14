@@ -1,0 +1,6 @@
+{
+  "name": "TireMaster PWA",
+  "description": "Identifica medidas de llantas por vehículo, genera cotizaciones multimarca y exporta a Excel. Optimizado para móviles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,23 @@
+{
+  "short_name": "TireMaster",
+  "name": "TireMaster - Cotizador de Llantas",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/tire/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/tire/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F0F0F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#FFD700",
+  "description": "Identifica medidas de llantas y genera cotizaciones técnicas."
+}
